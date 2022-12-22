@@ -12,3 +12,4 @@ MoAhmedd_homework.bronze_views (
 ) 
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
 LOCATION 's3://ceu-moahmed/datalake/views/';
+
